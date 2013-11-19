@@ -1,0 +1,20 @@
+{
+    "name": "buffalo/buffalo",
+    "description": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laurence Roberts",
+            "email": "lsjroberts@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpunit/phpunit": "3.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Buffalo\\": "src/"
+        }
+    }
+}
