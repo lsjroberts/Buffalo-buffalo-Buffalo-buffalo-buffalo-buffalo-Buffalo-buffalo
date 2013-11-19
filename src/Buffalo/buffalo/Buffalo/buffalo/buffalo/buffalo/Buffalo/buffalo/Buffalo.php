@@ -1,9 +1,9 @@
-<?php namespace Buffalo\buffalo\Buffalo\buffalo\buffalo\Buffalo\buffalo;
+<?php namespace Buffalo\buffalo\Buffalo\buffalo\buffalo\buffalo\Buffalo\buffalo;
 
 /**
  * A buffalo instance of buffalo.
  *
- * @package Buffalo\buffalo\Buffalo\buffalo\buffalo\Buffalo\buffalo;
+ * @package Buffalo\buffalo\Buffalo\buffalo\buffalo\buffalo\Buffalo\buffalo;
  * @author  Laurence Roberts <lsjroberts@outlook.com>
  */
 class Buffalo {

@@ -1,6 +1,6 @@
 <?php
 
-use Buffalo\buffalo\Buffalo\buffalo\buffalo\Buffalo\buffalo\BuffaloGenerator;
+use Buffalo\buffalo\Buffalo\buffalo\buffalo\buffalo\Buffalo\buffalo\BuffaloGenerator;
 
 class BuffaloGeneratorTest extends TestCase {
 
@@ -12,7 +12,7 @@ class BuffaloGeneratorTest extends TestCase {
     public function setUp()
     {
         $this->buffaloGenerator = new BuffaloGenerator;
-        $this->buffaloClass = '\Buffalo\buffalo\Buffalo\buffalo\buffalo\Buffalo\buffalo\Buffalo';
+        $this->buffaloClass = '\Buffalo\buffalo\Buffalo\buffalo\buffalo\buffalo\Buffalo\buffalo\Buffalo';
     }
 
     /**

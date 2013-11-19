@@ -1,6 +1,6 @@
 <?php
 
-use Buffalo\buffalo\Buffalo\buffalo\buffalo\Buffalo\buffalo\Buffalo;
+use Buffalo\buffalo\Buffalo\buffalo\buffalo\buffalo\Buffalo\buffalo\Buffalo;
 
 class BuffaloTest extends TestCase {
 
